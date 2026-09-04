@@ -60,7 +60,7 @@ I'm a software engineer building **production-grade backend systems, cloud-nativ
 <br/>
 
 <img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/languages.svg" alt="Most used languages" width="49%" />
-<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/habits.svg" alt="Coding habits" width="49%" />
+<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/activity.svg" alt="Recent activity" width="49%" />
 
 <br/><br/>
 
