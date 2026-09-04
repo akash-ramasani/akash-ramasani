@@ -55,16 +55,20 @@ I'm a software engineer building **production-grade backend systems, cloud-nativ
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/overview.svg" alt="GitHub overview metrics" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/languages.svg" alt="Most used languages" width="49%" />
-<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/activity.svg" alt="Recent activity" width="49%" />
+<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/isocalendar.svg" alt="Contribution calendar and streaks" width="100%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/isocalendar.svg" alt="Contribution calendar" width="100%" />
+<!--
+  Overview / languages / activity cards need a METRICS_TOKEN secret (personal access token).
+  Once it is set, re-run the "Generate profile metrics" workflow and uncomment these:
+
+<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/overview.svg" alt="GitHub overview metrics" width="100%" />
+<br/>
+<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/languages.svg" alt="Most used languages" width="49%" />
+<img src="https://raw.githubusercontent.com/akash-ramasani/akash-ramasani/main/metrics/activity.svg" alt="Recent activity" width="49%" />
+<br/><br/>
+-->
 
 <br/><br/>
 
