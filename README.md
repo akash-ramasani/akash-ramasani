@@ -10,24 +10,24 @@ Right now I'm the sole engineer at **Runn Technologies**, rebuilding its platfor
 
 ### Projects
 
-**[computer-use-automation](https://github.com/akash-ramasani/computer-use-automation)**
-An LLM drives a legacy browser UI once, and the run becomes a typed, versioned capability. After that it replays deterministically with no model in the loop, handles runtime errors, and hands off to a human in the same live session when it gets stuck.
+**[computer-use-automation](https://github.com/akash-ramasani/computer-use-automation)**<br>
+An LLM drives a legacy browser UI once, and the run becomes a typed, versioned capability. After that it replays deterministically with no model in the loop, handles runtime errors, and hands off to a human in the same live session when it gets stuck.<br>
 `TypeScript` `Playwright` `Anthropic / OpenAI` `Zod`
 
-**[faire-growth-studio](https://github.com/akash-ramasani/faire-growth-studio)** · [live demo](https://faire.akashramasani.com/)
-Agentic landing pages and self-serve audiences for marketers. Briefs become on-brand, eval-gated pages with A/B variants in four markets; plain-English audiences compile to SQL and sync to ad platforms with consent enforced in code. Every agent step has an eval and a defined failure path.
+**[faire-growth-studio](https://github.com/akash-ramasani/faire-growth-studio)** · [live demo](https://faire.akashramasani.com/)<br>
+Agentic landing pages and self-serve audiences for marketers. Briefs become on-brand, eval-gated pages with A/B variants in four markets; plain-English audiences compile to SQL and sync to ad platforms with consent enforced in code. Every agent step has an eval and a defined failure path.<br>
 `Next.js` `TypeScript` `Claude API` `Evals`
 
-**[job-watch](https://github.com/akash-ramasani/job-watch)** · [live](https://jobwatch.akashramasani.com/)
-Watches Greenhouse, Ashby, Workday and Oracle career sites for new roles, scores them against my resume, and fills application forms from my profile: rules first, an LLM only as a fallback. Includes a Chrome extension, an in-app assistant and an MCP server for Claude.
+**[job-watch](https://github.com/akash-ramasani/job-watch)** · [live](https://jobwatch.akashramasani.com/)<br>
+Watches Greenhouse, Ashby, Workday and Oracle career sites for new roles, scores them against my resume, and fills application forms from my profile: rules first, an LLM only as a fallback. Includes a Chrome extension, an in-app assistant and an MCP server for Claude.<br>
 `React` `Firebase` `Cloud Functions` `Chrome Extension` `MCP`
 
-**[log-monitor](https://github.com/akash-ramasani/log-monitor)**
-A REST API for reading server logs without SSH: newest-first reads from the end of multi-gigabyte files in chunks, keyword filtering and path-traversal protection, with pytest coverage.
+**[log-monitor](https://github.com/akash-ramasani/log-monitor)**<br>
+A REST API for reading server logs without SSH: newest-first reads from the end of multi-gigabyte files in chunks, keyword filtering and path-traversal protection, with pytest coverage.<br>
 `Python` `FastAPI` `pytest`
 
-**[NamePaste Helper](https://microsoftedge.microsoft.com/addons/detail/namepaste-helper/ljkkfghchdbfleeafalcgemobbinmmfb)** ([source](https://github.com/akash-ramasani/namepaste-helper))
-A published Microsoft Edge extension that helps you quickly write personalized LinkedIn messages.
+**[NamePaste Helper](https://microsoftedge.microsoft.com/addons/detail/namepaste-helper/ljkkfghchdbfleeafalcgemobbinmmfb)** ([source](https://github.com/akash-ramasani/namepaste-helper))<br>
+A published Microsoft Edge extension that helps you quickly write personalized LinkedIn messages.<br>
 `JavaScript` `Browser Extension`
 
 ---
