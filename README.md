@@ -23,7 +23,7 @@ Watches Greenhouse, Ashby, Workday and Oracle career sites for new roles, scores
 `React` `Firebase` `Cloud Functions` `Chrome Extension` `MCP`
 
 **[log-monitor](https://github.com/akash-ramasani/log-monitor)**<br>
-A REST API for reading server logs without SSH: newest-first reads from the end of multi-gigabyte files in chunks, keyword filtering and path-traversal protection, with pytest coverage.<br>
+A REST API for reading server logs without SSH: newest-first reads from the end of large files in chunks, keyword filtering and path-traversal protection, with pytest coverage.<br>
 `Python` `FastAPI` `pytest`
 
 **[NamePaste Helper](https://microsoftedge.microsoft.com/addons/detail/namepaste-helper/ljkkfghchdbfleeafalcgemobbinmmfb)** ([source](https://github.com/akash-ramasani/namepaste-helper))<br>
